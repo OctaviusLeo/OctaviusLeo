@@ -2,7 +2,7 @@
 
 Computer Engineering (MSU, Dec 2025, GPA 3.3) | AI/SWE + Robotics/Embedded
 
-**Links:** [Portfolio](https://symaedchitoctaviusleo.com) · [LinkedIn](https://linkedin.com/in/symaedchit-octavius-leo) · [Email](mailto:symaedchitleo@gmail.com) · [GitHub](https://github.com/OctaviusLeo)
+**Links:** [Portfolio](https://symaedchitoctaviusleo.com) · [LinkedIn](https://linkedin.com/in/symaedchit-octavius-leo) · [Email](mailto:symaedchitleo@gmail.com) · [Handshake](https://msu.joinhandshake.com/profiles/symaedchit-octavius-leo) · [Leetcode](https://leetcode.com/u/OctaviusLeo/)
 
 ## Focus
 - AI-enabled software + simulation: evaluation/metrics, reproducible tooling.
