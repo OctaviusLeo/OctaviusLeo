@@ -26,7 +26,7 @@ I build evaluation-first projects that are easy to reproduce and inspect:
 - **Engineering:** Git/GitHub - Linux - tests (pytest) - CI (GitHub Actions) - TensorBoard - Jupyter - Matplotlib
 
 ## Education
-- **Michigan State University** - B.S. Computer Engineering (Minor: Entrepreneurship & Innovation), Dec 2025 (GPA 3.31/4.0)  
+- **Michigan State University** - B.S. Computer Engineering, Dec 2025 (GPA 3.31/4.0)  
 - **Kalamazoo Valley Community College** - A.S. Chemical Physics, Apr 2023 (GPA 3.94/4.0)  
 
 ## Contact
