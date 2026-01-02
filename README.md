@@ -12,12 +12,12 @@ I build evaluation-first projects that are easy to reproduce and inspect:
 ## Featured projects
 | Project | What it demonstrates |
 |---|---|
-| **EMG-Driven Game Prototype (Senior Design)** - [repo](https://github.com/OctaviusLeo/ECE-480-Team-12-TI-EMG-AWS) | sEMG acquisition + real-time envelope features; timing/reliability under embedded constraints. |
-| **Robotics 2D Perception + Control Loop Demo** - [repo](https://github.com/OctaviusLeo/robotics-2d-perception-control) | Pygame differential-drive sim + OpenCV pipeline; closed-loop controller + FSM; exports GIF + telemetry for evaluation. |
+| **EMG-Driven Game Prototype (Senior Design)** - [repo](https://github.com/OctaviusLeo/ECE-480-Team-12-TI-EMG-AWS) | sEMG acquisition + real-time envelope features, timing/reliability under embedded constraints. |
+| **Robotics 2D Perception + Control Loop Demo** - [repo](https://github.com/OctaviusLeo/robotics-2d-perception-control) | Pygame differential-drive sim + OpenCV pipeline, closed-loop controller + FSM, exports GIF + telemetry for evaluation. |
 | **AI Sim RL Demo (CartPole PPO)** - [repo](https://github.com/OctaviusLeo/ai-sim-rl-cartpole) | PPO (Gymnasium + Stable-Baselines3) with reproducible runs, multi-seed evaluation, and artifacts (curves/videos/logs). |
 | **RAG-Lite Retrieval + Evaluation** - [repo](https://github.com/OctaviusLeo/rag-lite-tfidf-eval) | Retrieval stack (TF-IDF/BM25/embeddings + optional reranking) with benchmarking and IR metrics (Recall@K, MRR, nDCG, Precision). |
-| **Reddit Event Detection & Summarization** - [repo](https://github.com/OctaviusLeo/cse482-reddit-events) | NLP pipeline (preprocess -> TF-IDF -> clustering -> extractive summaries with evidence); ROUGE evaluation. |
-| **Roblox AI NPC (Rojo) Prototype** - [repo](https://github.com/OctaviusLeo/roblox-ai-game-repo) | Lua + Rojo NPC chat calling an external LLM; Roblox text filtering, optional moderation, rate limiting, and short per-player memory. |
+| **Reddit Event Detection & Summarization** - [repo](https://github.com/OctaviusLeo/cse482-reddit-events) | NLP pipeline (preprocess -> TF-IDF -> clustering -> extractive summaries with evidence), ROUGE evaluation. |
+| **Roblox AI NPC (Rojo) Prototype** - [repo](https://github.com/OctaviusLeo/roblox-ai-game-repo) | Lua + Rojo NPC chat calling an external LLM, Roblox text filtering, optional moderation, rate limiting, and short per-player memory. |
 
 ## Skills
 - **Languages:** Python - C/C++ - Lua - MATLAB  
