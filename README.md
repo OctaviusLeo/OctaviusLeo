@@ -5,12 +5,12 @@ Computer Engineering (Michigan State University, Dec 2025, GPA 3.31) - AI/SWE + 
 **Links:** [Portfolio](https://symaedchitoctaviusleo.com) | [LinkedIn](https://linkedin.com/in/symaedchit-octavius-leo) | [Email](mailto:symaedchitleo@gmail.com) | [Handshake](https://msu.joinhandshake.com/profiles/symaedchit-octavius-leo) | [LeetCode](https://leetcode.com/u/OctaviusLeo/)
 
 ## What I do
-I build evaluation-first projects that are easy to reproduce and inspect:
+I build eval first projects that are easy to reproduce and inspect:
 - **AI/ML engineering:** measurable experiments (multi-seed runs, metrics, benchmarks), clean repo hygiene (tests/CI), and shippable artifacts (plots/videos/logs).
-- **Robotics/Embedded:** sensor + signal pipelines, real-time constraints, and closed-loop control in simulation and embedded contexts.
+- **Robotics/Embedded:** sensor + signal pipelines, real-time constraints, and closed loop control in simulation and embedded contexts.
 
 ## Featured projects
-| Project | What it demonstrates |
+| Name | Description |
 |---|---|
 | **EMG-Driven Game Prototype (Senior Design)** - [repo](https://github.com/OctaviusLeo/ECE-480-Team-12-TI-EMG-AWS) | sEMG acquisition + real-time envelope features, timing/reliability under embedded constraints. |
 | **Robotics 2D Perception + Control Loop Demo** - [repo](https://github.com/OctaviusLeo/robotics-2d-perception-control) | Pygame differential-drive sim + OpenCV pipeline, closed-loop controller + FSM, exports GIF + telemetry for evaluation. |
